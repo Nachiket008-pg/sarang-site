@@ -36,7 +36,7 @@ li a:hover{
 }
 
 #home{
-    background-image: url(images/home.jpg);
+    background-color: #1E3942;
 }
 
 .cont-para{
@@ -44,12 +44,9 @@ li a:hover{
     font-size: 1.2em;
 }
 .centered {
-    color: #fff;
+    color: #fff8dc;
     position: absolute;
     font-size: 1.2em;
-    top: 40%;
-    left: 75%;
-    transform: translate(-50%, -50%);
 }
 
 .contact{
